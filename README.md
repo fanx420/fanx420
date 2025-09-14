@@ -24,7 +24,8 @@
 
 ## 💻 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fanx420&layout=compact&theme=radical)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fanx420&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fanx420&theme=radical)
+
 
 
 
