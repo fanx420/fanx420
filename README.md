@@ -7,7 +7,7 @@
 
 📚 Always learning new tools and improving my skills to craft better, user-friendly interfaces.  
 
-📫 Reach me at: **your_email@example.com** ✉️  
+📫 Reach me at: **kalebdionfrancisz@gmail.com** ✉️  
 
 
 ---
