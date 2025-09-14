@@ -24,8 +24,6 @@
 
 ## 💻 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fanx420&layout=compact&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fanx420&theme=radical)
-
 
 
 
@@ -49,7 +47,3 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
----
-
-## 👀 Visitors
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
