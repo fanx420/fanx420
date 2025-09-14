@@ -47,8 +47,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=radical)  
-![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=radical)  
-![Commits per language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=radical)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fanx420&theme=radical)  
+![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fanx420&theme=radical)  
+![Commits per language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fanx420&theme=radical)
 
 
