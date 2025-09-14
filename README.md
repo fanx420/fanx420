@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Kaleb
 
 ## 🚀 About Me
-👋 Hi, I’m **YOUR_NAME** — a developer who builds clean and interactive websites like the ones in my portfolio 👉 [kz420-portfolio.vercel.app](https://kz420-portfolio.vercel.app/).  
+👋 Hi, I’m **Kaleb** — a developer who builds clean and interactive websites like the ones in my portfolio 👉 [kz420-portfolio.vercel.app](https://kz420-portfolio.vercel.app/).  
 
 💻 I enjoy turning ideas into real projects using **JavaScript**, **HTML**, **CSS**, and modern frameworks.  
 
