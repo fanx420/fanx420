@@ -13,9 +13,12 @@
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fanx420&theme=radical)  
-![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fanx420&theme=radical)  
-![Commits per language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fanx420&theme=radical)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fanx420&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fanx420&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fanx420&theme=radical" />
+</p>
+
 
 ---
 
